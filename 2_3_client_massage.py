@@ -1,6 +1,0 @@
-name = input()
-address = input()
-date = input()
-print(name, address, date, sep=" | ")
-print("Показ", end="")
-print("подтвержден")
